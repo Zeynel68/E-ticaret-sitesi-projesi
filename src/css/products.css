@@ -1,0 +1,86 @@
+.arama-input {
+    display: flex;
+    flex-direction: column;
+    height: 25px;
+    width: 700px;
+    margin-top: 60px;
+    margin-left: 270px;
+}
+
+.buton {
+    cursor: pointer;
+    height: 25px;
+    width: 60px;
+    background-color: rgb(113, 116, 112);
+    margin-top: 16px;
+    margin-left: 950px;
+}
+
+.arama-main {
+    padding-bottom: 16px;
+    height: 150px;
+    width: 1500px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+
+.search-title {
+    margin-top: 75px;
+    margin-left: 280px;
+    white-space: nowrap;
+    color: black;
+}
+
+.computer-foto {
+    cursor: pointer;
+    width: 500px;
+    height: 350px;
+    margin-left: 80px;
+    transition: transform 0.3s ease;
+
+}
+
+.computer-foto:hover {
+    transform: scale(1.1);
+}
+
+.smart-foto {
+    cursor: pointer;
+    width: 500px;
+    height: 350px;
+    margin-left: 80px;
+    transition: transform 0.3s ease;
+}
+
+.smart-foto:hover {
+    transform: scale(1.1);
+}
+
+.television-foto {
+    cursor: pointer;
+    width: 500px;
+    height: 350px;
+    margin-left: 80px;
+    margin-top: 40px;
+    transition: transform 0.3s ease;
+}
+
+.television-foto:hover {
+    transform: scale(1.1);
+}
+
+.telephone-foto {
+    cursor: pointer;
+    width: 500px;
+    height: 350px;
+    margin-left: 80px;
+    transition: transform 0.3s ease;
+}
+
+.telephone-foto:hover {
+    transform: scale(1.1);
+}
+
+.search-foto {
+    margin-top: 150px;
+}
