@@ -22,11 +22,14 @@ function Header() {
                     color: "blue",
                     textDecoration: "inherit"
                 }}>
-                    <Link to="/">Home</Link>
+                    <Link to="/">
+
+                        Home</Link>
                 </div>
 
                 <div className='prod'>
-                    <Link to="/products">Products</Link>
+                    <Link to="/products">
+                        Products</Link>
                 </div>
 
                 <div className='comments'>
@@ -50,7 +53,6 @@ function Header() {
                 <div className='signin'>
                     <Link to="/signin">Signin</Link>
                 </div>
-
 
 
             </div>
